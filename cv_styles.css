@@ -1,0 +1,18 @@
+#wrapper {
+	border: 1px solid #white;
+	width: 950px;
+	margin: auto;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+hr {
+  margin: auto 220px
+}
+
+.div {
+  text-align: center;
+  margin: 20px;
+}
